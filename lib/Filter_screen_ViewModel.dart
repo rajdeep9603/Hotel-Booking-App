@@ -1,0 +1,2 @@
+List<String> profiletitle = ["Username","Email","Phone","date of Birth","Address"];
+List<String> profiledetail = ["Amanda jane","amanda@gmail.com","+65 1122334455","20, Aug,1990","123 Royal Street , New York"];
